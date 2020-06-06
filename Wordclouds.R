@@ -48,7 +48,7 @@ wordcloud(words=diagn$word,freq=diagn$freq,min.freq = 100,colors=brewer.pal(8,"D
 }
 #rot.per rotate the words, scale goes to the maximum at x-axis and minor in y-axis
 
-#saving to make some maps
+#saving to make a few maps in tableau
 
 #listaperiodos=list()
 #listaperiodos$until90 <-terrorism %>%  filter(iyear<=1990)
