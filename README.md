@@ -5,4 +5,4 @@ The maps were made in tableau, and they are available here:- [Tableau.Maps](http
 
 The article in portuguese is available here:- [Terrorismo_gobal](https://sites.google.com/view/data-journalbr/seguran%C3%A7a-global/terrorismo-mundial-breve-an%C3%A1lise?authuser=0)
 
-he database is available here:- [Database](https://www.kaggle.com/START-UMD/gtd)
+The database is available here:- [Database](https://www.kaggle.com/START-UMD/gtd)
